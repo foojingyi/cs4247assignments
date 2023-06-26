@@ -12,5 +12,6 @@
 
 
 ## TASK 3: Design Your New Scene
+Rendered with Whitted Ray Tracing
 ![task3a](task3a.png)
 ![task3b](task3b.png)
